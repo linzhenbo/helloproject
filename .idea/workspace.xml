@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7010e37-5e0a-4bc9-b0bc-d2a2291917d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloProject/com/eju/hellloproject/HelloProject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/eju/hellloproject/HelloProject.java" afterDir="false" />
+    <list default="true" id="a7010e37-5e0a-4bc9-b0bc-d2a2291917d1" name="Default Changelist" comment="f">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/eju/hellloproject/HelloProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/eju/hellloproject/HelloProject.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,11 +77,23 @@
       <option name="presentableId" value="Default" />
       <updated>1570527617965</updated>
       <workItem from="1570527626083" duration="422000" />
-      <workItem from="1570582888029" duration="3977000" />
+      <workItem from="1570582888029" duration="4365000" />
     </task>
+    <task id="LOCAL-00001" summary="f">
+      <created>1570588266111</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570588266111</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="f" />
+    <option name="LAST_COMMIT_MESSAGE" value="f" />
   </component>
 </project>
