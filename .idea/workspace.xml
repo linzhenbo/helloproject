@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7010e37-5e0a-4bc9-b0bc-d2a2291917d1" name="Default Changelist" comment="update test02">
+    <list default="true" id="a7010e37-5e0a-4bc9-b0bc-d2a2291917d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/eju/hellloproject/test03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/eju/hellloproject/HelloProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/eju/hellloproject/HelloProject.java" afterDir="false" />
     </list>
@@ -83,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1570527617965</updated>
       <workItem from="1570527626083" duration="422000" />
-      <workItem from="1570582888029" duration="5801000" />
+      <workItem from="1570582888029" duration="8070000" />
     </task>
     <task id="LOCAL-00001" summary="f">
       <created>1570588266111</created>
@@ -127,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570589762067</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update test02">
+      <created>1570590025714</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1570590025714</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
