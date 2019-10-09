@@ -5,5 +5,6 @@ public class HelloProject {
         System.out.println("test");
 
         System.out.printf("Hello idea!");
+
     }
 }
